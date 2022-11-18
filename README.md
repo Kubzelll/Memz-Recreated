@@ -8,6 +8,7 @@ You can also see how i recreated some memz payloads in python
 
 ## Installation
 You don't need to install libraries if u want to use .exe file
+Go to releases to download exe and py files
 
 ##### Windows:
 ```zsh
